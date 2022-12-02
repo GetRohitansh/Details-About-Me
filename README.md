@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @GetRohitansh
+- 👋 Hi, I’m Rohitansh
+- 📚 I'm interested in learning in public and help people.
 - 👀 I’m interested in Learning Techie things and becoming Rich, Spiritual and Healthier    
 - 🌱 I’m currently learning WebDev, DSA and DevOps
 - 💞️ I’m looking to collaborate on OpenSource
